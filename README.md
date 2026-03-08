@@ -180,7 +180,5 @@ Monitoring
 
 **Dhiraj Kumar**
 
-LinkedIn
-GitHub
 
 ---
